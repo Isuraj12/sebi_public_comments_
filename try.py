@@ -246,7 +246,7 @@ What transitional provisions are planned to support small intermediaries or issu
 
 How will SEBI measure the effectiveness of this reform post-implementation?
 
-🧩 Additional Instructions
+ Additional Instructions
 
 Handle any number of proposals without summary loss. Each proposal must have its own complete analysis block.
 
