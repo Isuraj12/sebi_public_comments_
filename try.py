@@ -7,7 +7,7 @@ import os
 
 # --- Configure Gemini ---
 
-genai.configure(api_key= "AIzaSyCQo0iMnakG1dulc-nQbJNUWB25JdNuqew")
+genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
 model = genai.GenerativeModel("gemini-2.0-flash")
 
 # --- Function to Load Data ---
